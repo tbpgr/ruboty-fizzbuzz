@@ -9,7 +9,7 @@ module Ruboty
         private
 
         def fizzbuzz
-          case message[:count]
+          case message[:number]
           when fizzbuzz? then "FizzBuzz"
           when buzz? then "Buzz"
           when fizz? then "Fizz"
