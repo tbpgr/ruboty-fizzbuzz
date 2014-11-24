@@ -4,8 +4,7 @@
 FizzBuzz の機能を持つ ruboty-fizzbuzz を作成しました
 
 ## 用途
-自動生成ツールの説明のためのプロジェクトなので、サンプルプログラムの定番
-FizzBuzz を採用しました。
+自動生成ツールの説明のためのプロジェクトなので、サンプルプログラムの定番 FizzBuzz を採用しました。
 3 の倍数の時に Fizz
 5 の倍数の時に Buzz
 15 の倍数の時に FizzBuzz
@@ -53,13 +52,13 @@ Or install it yourself as:
 
 |Name|Description|
 |:--|:--|
-
+|--|--|
 
 ## Dependency
 
 |Name|Description|
 |:--|:--|
-
+|--|--|
 
 ## 参照
 * [ruboty-fizzbuzz GitHub](https://github.com/tbpgr/ruboty-fizzbuzz)
