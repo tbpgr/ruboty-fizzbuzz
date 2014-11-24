@@ -13,7 +13,7 @@ module Ruboty
           when fizzbuzz? then "FizzBuzz"
           when buzz? then "Buzz"
           when fizz? then "Fizz"
-          else e
+          else message[:number]
           end
         end
 
