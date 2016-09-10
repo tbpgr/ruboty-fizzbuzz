@@ -1,6 +1,6 @@
 # Ruboty::Fizzbuzz
 
-An Ruboty Handler + Actions to output fizzbuzz result.
+A Ruboty Handler + Actions to output fizzbuzz result.
 
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
